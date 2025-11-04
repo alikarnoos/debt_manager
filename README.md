@@ -8,15 +8,15 @@
 
 ### 1. Main Interface
 Displays quick access buttons to all sections of the program.  
-![Main Interface](screenshots/screenshot1.png)
+![Main Interface](Screenshots/Screenshot1.png)
 
 ### 2. Debts We Owe
 Shows all debts that we owe in Iraqi Dinar and US Dollar.  
-![Debts We Owe](screenshots/screenshot2.png)
+![Debts We Owe](Screenshots/Screenshot2.png)
 
 ### 3. Debts Owed to Us
 Shows all debts owed to us in Iraqi Dinar and US Dollar.  
-![Debts Owed to Us](screenshots/screenshot3.png)
+![Debts Owed to Us](Screenshots/Screenshot3.png)
 
 ### 4. Add New Debt
 You can add a new debt with the following information:  
@@ -28,15 +28,15 @@ You can add a new debt with the following information:
 - Date  
 - Notes  
 - Attachments (images or files)  
-![Add New Debt](screenshots/screenshot4.png)
+![Add New Debt](Screenshots/Screenshot4.png)
 
 ### 5. Reports
 Provides detailed reports of all debts and payments, with the option to download as **PDF** or **Excel**.  
-![Reports](screenshots/screenshot5.png)
+![Reports](Screenshots/Screenshot5.png)
 
 ### 6. Backup & Restore
 Allows you to create a backup of your data or restore it when needed.  
-![Backup & Restore](screenshots/screenshot6.png)
+![Backup & Restore](Screenshots/Screenshot6.png)
 
 ---
 
@@ -67,7 +67,7 @@ Allows you to create a backup of your data or restore it when needed.
 
 ## 📂 Important Folders
 
-- `screenshots/` : Contains screenshots of the program  
+- `Screenshots/` : Contains Screenshots of the program  
 - `debt_manager/` : Core project files  
 
 ---
